@@ -1,0 +1,5 @@
+datasource:        
+  ds1:
+    jdbc-url: jdbc:h2:mem:ds1;DB_CLOSE_ON_EXIT=TRUE;
+  ds2:
+    jdbc-url: jdbc:h2:mem:ds2;DB_CLOSE_ON_EXIT=TRUE;
